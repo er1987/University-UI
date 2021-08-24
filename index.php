@@ -8,6 +8,7 @@
 </head>
 <body>
 <h1>ciao stronmzi</h1>
+<h2>loteee</h2>
     <script src="main.js"></script>
    
 </body>
